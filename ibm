@@ -1,0 +1,10 @@
+<ANTXML>
+<project name="JAVA Project" default="jar" basedir=".">
+<property name="env" environment="env" value="env"/>
+<property name="SCLM_ARCHDEF" value="V2JAR1"/>
+<property name="SCLM_ANTXML" value="BWBJAVAA"/>
+<property name="SCLM_BLDMAP" value="YES"/>
+<property name="JAR_FILE_NAME" value="V2TEST.jar"/>
+<property name="CLASSPATH_JARS" value="/var/zexpl/CLASSPATH"/>
+<property name="ENCODING" value="IBM-1047"/>
+</ANTXML>
